@@ -1,4 +1,13 @@
-#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wSZbtiFIK1fkKZdSRtn2kz2Ttfd.jpg" group-title="MOVIES ESTRENOS HD",AGENTE CINTURON NEGRO
+http://vod.tuxchannel.mx/peliculas/720/officer%20black%20belt%202024.mkv
+#EXTINF:-1 tvg-logo="https://staticg.sportskeeda.com/editor/2024/09/95f82-17260793079662-1920.jpg" group-title="MOVIES ESTRENOS HD",TECHNOBOYS
+https://cinevallstorage.com/stuff/techno.mp4
+#EXTINF:-1 tvg-logo="https://www.accioncine.es/wp-content/uploads/2024/09/los-feos.jpg" group-title="MOVIES ESTRENOS HD",LOS FEOS
+https://cinevallstorage.com/stuff/feos.mp4
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.WffWkbsQ5FZ9mIVa36hmJwHaEK?rs=1&pid=ImgDetMain" group-title="MOVIES ESTRENOS HD",PARPADEA DOS VECES
+https://cinevallstorage.com/stuff/parpadea.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/c49ceb9e7d71f5a8e45ca09fd9114b63ecdee8bbe8da26484e8d7f5c9504d147._UR1920,1080_SX720_FMjpg_.jpg" group-title="MOVIES ESTRENOS HD",HUNTING GAMES
+http://vod.tuxchannel.mx/peliculas/720/hunting%20games%202023.mkv
 #EXTINF:-1 tvg-logo="https://www.nextgame.es/wp-content/uploads/2024/04/La-Trampa-Shyamalan-Trailer.jpg" group-title="MOVIES ESTRENOS HD",LA TRAMPA
 https://www.polimor.club/movies/trampa.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Pxml1ckGD84/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDWSGou_nkUPw3sjCkn8HW2-S4nKg" group-title="MOVIES ESTRENOS HD",REBEL RIDGE
