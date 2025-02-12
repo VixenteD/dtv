@@ -1,21 +1,37 @@
-#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",FLOW
+#EXTINF:-1 tvg-logo="https://static1.thegamerimages.com/wordpress/wp-content/uploads/2024/02/sonic-3-movie-trailer-logo.jpg" group-title="MOVIES ESTRENOS HD",SONIC 3
+http://vod.tuxchannel.mx/peliculas/720/sonic%20the%20hedgehog%203%202024.mkv
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/JI4fbFT7NvQ/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",MOANA 2
+http://vod.tuxchannel.mx/peliculas/720/moana%202%202024.mkv
+#EXTINF:-1 tvg-logo="https://www.loslunesseriefilos.com/wp-content/uploads/2024/12/nosferatu-2024-pelicula.jpg" group-title="MOVIES ESTRENOS HD",NOSFERATU
+http://vod.tuxchannel.mx/peliculas/720/nosferatu%202024.mkv
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/T-yMB47ypk8/maxresdefault.jpg" group-title="MOVIES ESTRENOS HD",AMENAZA EN EL AIRE
+https://canvasolutions.com.mx//stuff/amenaza.mp4
+#EXTINF:-1 tvg-logo="https://cinedt-digital-cdn.app.vista.co/media/entity/get/FilmBackdrop/HO00000660?width=1920" group-title="MOVIES ESTRENOS HD",CRIATURAS: LINEA DE EXTINCION
+https://canvasolutions.com.mx//stuff/cri.mp4
+#EXTINF:-1 tvg-logo="https://ladehoy.com.mx/wp-content/uploads/2025/01/xzg_hcxhcz_gfxgfdxfga.jpg" group-title="MOVIES ESTRENOS HD",DESPUES DEL APOCALIPSIS
+https://canvasolutions.com.mx//stuff/apoca.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/f4fed05b660218e2471732ecb643af560f6e0ab67811d85b62a2480b6dbc7967.jpg" group-title="MOVIES ESTRENOS HD",LA OTRA BODA
+https://canvasolutions.com.mx//stuff/boda.mp4
+#EXTINF:-1 tvg-logo="https://static.cinepolis.com/img/peliculas/thumb-trailer/48628/1/7/48628.jpg" group-title="MOVIES ESTRENOS HD",MESA DE REGALOS
+https://canvasolutions.com.mx//stuff/mesa.mp4
+#EXTINF:-1 tvg-logo="https://digitalcine.b-cdn.net/wp-content/uploads/2024/05/flow_image-une-fiche-film-cannes-2024.jpg" group-title="MOVIES ESTRENOS HD",FLOW
 https://canvasolutions.com.mx//stuff/flow.mp4
-#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",WICKED PARTE ONE
+#EXTINF:-1 tvg-logo="https://sportshub.cbsistatic.com/i/2024/02/11/7f527e20-33e0-4508-8239-0112c5f3f555/wicked-part-1-trailer.jpg?width=1200" group-title="MOVIES ESTRENOS HD",WICKED PARTE ONE
 https://canvasolutions.com.mx//stuff/wicked.mp4
-#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",WALLACE & GROMIT: LA VENGANZA SE SIRVE CON PLUMAS
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PXWkb5hhtqA/hq720.jpg" group-title="MOVIES ESTRENOS HD",WALLACE & GROMIT: LA VENGANZA SE SIRVE CON PLUMAS
 http://vod.tuxchannel.mx/peliculas/720/wallace%20and%20gromit%20vengeance%20most%20fowl%202025.mkv
-#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",EL ROBO PERFECTO: PANTERA
+#EXTINF:-1 tvg-logo="https://www.hugozapata.com.ar/wp-content/uploads/2025/01/den-of-thieves.jpg" group-title="MOVIES ESTRENOS HD",EL ROBO PERFECTO: PANTERA
 https://canvasolutions.com.mx//stuff/ladrones2.mp4
-#EXTINF:-1 tvg-logo="" group-title="MOVIES ESTRENOS HD",UN CANDIDATO HONESTO
+#EXTINF:-1 tvg-logo="https://www.metrotheatres.com/media/5700/big_pv69nrni.png?preset=heropanel" group-title="MOVIES ESTRENOS HD",UN CANDIDATO HONESTO
 https://canvasolutions.com.mx//stuff/candidato.mp4
 #EXTINF:-1 tvg-logo="https://www.sonypictures.com.mx/sites/mexico/files/2024-06/VENOM_2572x1100.jpg" group-title="MOVIES ESTRENOS HD",VEMOM: EL ULTIMO BAILE
-http://vurteca43.com:2086/movie/Bem4NmxTDn/YsssNwg8uE/769967.mkv
+https://www.polimor.club/movies/venom.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rOmUuQEZfPXglwFs5ELLLUDKodL.jpg" group-title="MOVIES ESTRENOS HD",CODIGO: TRAJE ROJO
 http://vod.tuxchannel.mx/peliculas/720/red%20one%202024.mkv
 #EXTINF:-1 tvg-logo="https://www.bizcochito.es/Films/Movil/tt9218128.webp" group-title="MOVIES ESTRENOS HD",GLADIADOR II
 https://polimor.club/movies/gladiador2.mp4
 #EXTINF:-1 tvg-logo="https://i0.wp.com/lamagazin.com/wp-content/uploads/2024/12/El-Senor-de-los-Anillos-La-Guerra-de-los-Rohirrim.jpg?fit=1200%2C675&ssl=1" group-title="MOVIES ESTRENOS HD",EL SEÑOR DE LOS ANILLOS: LA GUERRA DE LOS ROHIRRIM
-https://vod.tuxchannel.mx/peliculas/720/the%20lord%20of%20the%20rings%20the%20war%20of%20the%20rohirrim%202024.mkv
+http://vod.tuxchannel.mx/peliculas/720/the%20lord%20of%20the%20rings%20the%20war%20of%20the%20rohirrim%202024.mkv
 #EXTINF:-1 tvg-logo="https://img.asmedia.epimg.net/resizer/v2/XNIPQFK4GNGDTPVUXBUALQ6EWA.jpg?auth=c7a873a106bc25aede4362eca96aeb51ed5dd441017929962efad69ab49eaf44&width=360&height=203&smart=true" group-title="MOVIES ESTRENOS HD",SONRIE 2
 https://www.polimor.club/movies/sonrie2.mp4
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2lEq7kbqqyeplHHvWxqMvT9Ez8toJZYMOhqfX9q_dpSjdCsidkaOOBvw0iYm5Ht2FTp4Ff_wIIYdSGjfy8oYgS7V_V2WsEW2njLqm1h05qkP8Opq1FCh8aVURLDi69LO-SHsvtyntYLJEXbc7Z_nggxOZ7_JDHXApYjxoUC6FbzTf3NeW0tfNn63vwSPK/s1600/unnamed.jpg" group-title="MOVIES ESTRENOS HD",HAROLD Y SU CRAYP MAGICO
